@@ -1,4 +1,4 @@
-# Javascript/React - Memory Game
+# Javascript/React - Movie Search App
 
 For this project I created a movie search app using API from [TMDB](https://www.themoviedb.org/)
 
