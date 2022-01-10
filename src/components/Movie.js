@@ -16,7 +16,6 @@ import NoImage from '../images/no_image.jpg';
 
 const Movie = () => {
     const { movieId } = useParams();
-
     const { state: movie, loading, error } = useMovieFetch(movieId);
 
     if(loading) return <Spinner />;
@@ -32,7 +31,8 @@ const Movie = () => {
                 revenue={movie.revenue}
             />
             <Grid header="Actors" >
-                {movie.actors.map(actor => (
+                { // Example of functional programming .map()
+                movie.actors.map(actor => (
                     <Actor 
                         key={actor.credit_id}
                         name={actor.name}
