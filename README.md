@@ -1,6 +1,6 @@
 # Javascript/React - Movie Search App
 
-For this project I created a movie search app using API from [TMDB](https://developers.themoviedb.org/)
+For this project I created a movie search app using the API from [TMDB](https://developers.themoviedb.org/)
 
 - The project is set up with [create-react-app](https://create-react-app.dev/docs/getting-started).
 - I use react [prop-types](https://www.npmjs.com/package/prop-types) for typechecking
@@ -14,9 +14,9 @@ For this project I created a movie search app using API from [TMDB](https://deve
 <br>
 
 <p align="center">
-  <img width="30%" src="public/img/Screenshot-01.png">
-  <img width="30%" src="public/img/Screenshot-03.png">
-  <img width="30%" src="public/img/Screenshot-02.png">
+  <img width="33%" src="public/img/Screenshot-01.png">
+  <img width="33%" src="public/img/Screenshot-03.png">
+  <img width="33%" src="public/img/Screenshot-02.png">
 </p>
 
 <br>
