@@ -1,12 +1,11 @@
 # Javascript/React - Movie Search App
 
-For this project I created a movie search app using API from [TMDB](https://www.themoviedb.org/)
+For this project I created a movie search app using API from [TMDB](https://developers.themoviedb.org/)
 
 - The project is set up with [create-react-app](https://create-react-app.dev/docs/getting-started).
-- prop-types
-- 
-- I use styled-components for styling.
-- Project is deployed using Vercel.
+- I use react [prop-types](https://www.npmjs.com/package/prop-types) for typechecking
+- I use [styled-components](https://styled-components.com/docs/basics) for styling.
+- Project is deployed using [Vercel](https://vercel.com/).
 - Code is commented so you can see what each part is doing.
 
 ### [Link to Live Site](https://movie-tv-search-app-9sjw0x5nr-hebaulf.vercel.app/)
