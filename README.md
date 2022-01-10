@@ -14,9 +14,9 @@ For this project I created a movie search app using the API from [TMDB](https://
 <br>
 
 <p align="center">
-  <img width="33%" src="public/img/Screenshot-01.png">
-  <img width="33%" src="public/img/Screenshot-03.png">
-  <img width="33%" src="public/img/Screenshot-02.png">
+  <img width="30%" src="public/img/Screenshot-01.png">
+  <img width="30%" src="public/img/Screenshot-03.png">
+  <img width="30%" src="public/img/Screenshot-02.png">
 </p>
 
 <br>
